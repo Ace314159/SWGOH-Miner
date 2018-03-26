@@ -1,0 +1,1 @@
+A utility to scrape data for Star Wars: Galaxy of Heroes from swgoh.gg
